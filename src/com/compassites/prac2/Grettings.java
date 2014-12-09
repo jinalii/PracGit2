@@ -8,6 +8,7 @@ public class Grettings {
 		System.out.println("Hi");
 		Hello h = new Hello();
 		h.displayHello();
+		System.out.println("Welcome");
 	}
 
 }
